@@ -1,5 +1,6 @@
-streamlit
-langchain
-transformers
-sentence-transformers
-chromadb
+streamlit==1.22.0
+langchain==0.0.123
+langchain-community==0.0.1  # Add this line
+transformers==4.26.1
+sentence-transformers==2.2.2
+chromadb==0.3.0
